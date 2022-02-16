@@ -44,7 +44,7 @@ CSA
 * Situational Awareness
 * John Lambert
 * Hindsight
-\* 
+
 ## Safety
 * Dr. [Erik Hollnagel](https://erikhollnagel.com/), [Safety-I and Safety-II](https://erikhollnagel.com/ideas/safety-i%20and%20safety-ii.html) (and much, much more)
 
