@@ -44,7 +44,7 @@ CSA
 * Situational Awareness
 * John Lambert
 * Hindsight
-* 
+\* 
 ## Safety
 * Dr. [Erik Hollnagel](https://erikhollnagel.com/), [Safety-I and Safety-II](https://erikhollnagel.com/ideas/safety-i%20and%20safety-ii.html) (and much, much more)
 
@@ -74,5 +74,5 @@ CSA
 ## Historical References
 * The Open Group: [W124: Jericho Forum Commandments](https://publications.opengroup.org/security-library/zero-trust/w124) (2007)
 * Dorothy Denning: (1993)
-* Trust
+\<!-- * Trust —\>
 * The Rand Corporation: Security Controls for Computer Systems (1970)
