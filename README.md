@@ -74,5 +74,4 @@ CSA
 ## Historical References
 * The Open Group: [W124: Jericho Forum Commandments](https://publications.opengroup.org/security-library/zero-trust/w124) (2007)
 * Dorothy Denning: (1993)
-\<!-- * Trust —\>
 * The Rand Corporation: Security Controls for Computer Systems (1970)
