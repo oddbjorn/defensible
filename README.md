@@ -1,6 +1,5 @@
 
 (This is pre-alpha content for now)
-> Testing
 
 # Defendable Enterprise
 * MITRE: [ATT&CK](https://attack.mitre.org/) + [D3FEND](https://d3fend.mitre.org/) 
