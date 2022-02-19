@@ -1,11 +1,16 @@
+
+(This is pre-alpha content for now)
+> Testing
+
 # Defendable Enterprise
 * MITRE: [ATT&CK](https://attack.mitre.org/) + [D3FEND](https://d3fend.mitre.org/) 
 * [Mandiant](https://www.mandiant.com/): [Proactive Preparation and Hardening to Protect Against Destructive Attacks](https://www.mandiant.com/resources/protect-against-destructive-attacks) (2022-01)
 * Lockheed-Martin: [Threat-Driven Approach to Cyber Security](https://www.lockheedmartin.com/content/dam/lockheed-martin/rms/documents/cyber/LM-White-Paper-Threat-Driven-Approach.pdf) + [Defendable Architectures ](https://www.lockheedmartin.com/content/dam/lockheed-martin/rms/documents/cyber/LM-White-Paper-Defendable-Architectures.pdf) (2019)
 * Richard Bejtlich: [Defensible Network Architecture 2.0](https://taosecurity.blogspot.com/2008/01/defensible-network-architecture-20.html) (2008)
 * CISA:
-	* AA21-116A:  [Russian Foreign Intelligence Service (SVR) Cyber Operations: Trends and Best Practices for Network Defenders](https://www.cisa.gov/uscert/ncas/alerts/aa21-116a)
-	* AA22-011A: [Understanding and Mitigating Russian State-Sponsored Cyber Threats to U.S. Critical Infrastructure ](https://www.cisa.gov/uscert/ncas/alerts/aa22-011a)
+	* Insights: [Foreign Influence Operations Targeting Critical Infrastructure](https://cisa.gov/sites/default/files/publications/cisa_insight_mitigating_foreign_influence_508.pdf) (2022-02)	
+	 * AA21-116A:  [Russian Foreign Intelligence Service (SVR) Cyber Operations: Trends and Best Practices for Network Defenders](https://www.cisa.gov/uscert/ncas/alerts/aa21-116a)
+	* AA22-011A: [Understanding and Mitigating Russian State-Sponsored Cyber Threats to U.S. Critical Infrastructure ](https://www.cisa.gov/uscert/ncas/alerts/aa22-011a) (2022-01)
 	* AA21-008A: [Detecting Post-Compromise Threat Activity in Microsoft Cloud Environments](https://www.cisa.gov/uscert/ncas/alerts/aa21-008a) 
 	* AA20-073A: [Enterprise VPN Security](https://www.cisa.gov/uscert/ncas/alerts/aa20-073a)
 * NIST: SP 800-160: [Engineering Trustworthy Secure Systems](https://csrc.nist.gov/publications/detail/sp/800-160/vol-1/final) (2022-01)
@@ -33,7 +38,7 @@ CSA
 	* Forrester
 
 ## Critical Vulnerability Management
-* CISA: [Known Exploited Vulnerabilities Catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+* CISA: [Known Exploited Vulnerabilities Catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog) (KEV)
 * FIRST: [Exploit Prediction Scoring System](https://www.first.org/epss/) (EPSS) (2022-02)
  - NIST: SP 800-40r4: [Guide to Enterprise Patch Management Planning: Preventive Maintenance for Technology](https://csrc.nist.gov/publications/detail/sp/800-40/rev-4/draft) (2021-11)
 
@@ -63,6 +68,7 @@ CSA
 *  [Learning from Incidents](https://www.learningfromincidents.io/) (LFI)
 * Nora Jones: [Incident Analysis: Your Organization’s Secret Weapon](https://itrevolution.com/incident-analysis-your-organizations-secret-weapon/)
 * Harvard Belfer Center: [Learning from Cyber Incidents: Adapting Aviation Safety Models to Cybersecurity](https://www.belfercenter.org/publication/learning-cyber-incidents-adapting-aviation-safety-models-cybersecurity) (2021-11)
+* Howie
 
 ## Systems Thinking
 * Systems of Systems
