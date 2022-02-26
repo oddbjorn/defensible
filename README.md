@@ -1,5 +1,4 @@
 > You don't suddenly start "looking for attacks on your network". This isn't 1998, its 2022 and if you're not automating and scaling these kinds of detections then you've likely already lost. — Chris Rohlf
-
 # The Defendable Enterprise
 * John Lambert: [Defender’s Mindset](https://medium.com/@johnlatwc/defenders-mindset-319854d10aaa) (2021-11-21)
 * MITRE: [ATT&CK](https://attack.mitre.org/) + [D3FEND](https://d3fend.mitre.org/) 
