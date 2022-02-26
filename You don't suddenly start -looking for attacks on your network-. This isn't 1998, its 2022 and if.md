@@ -1,9 +1,7 @@
-
-(This is pre-alpha content for now)
-
 > You don't suddenly start "looking for attacks on your network". This isn't 1998, its 2022 and if you're not automating and scaling these kinds of detections then you've likely already lost. — Chris Rohlf
+
+# The Defendable Enterprise
 * John Lambert: [Defender’s Mindset](https://medium.com/@johnlatwc/defenders-mindset-319854d10aaa) (2021-11-21)
-# Defendable Enterprise
 * MITRE: [ATT&CK](https://attack.mitre.org/) + [D3FEND](https://d3fend.mitre.org/) 
 * [Mandiant](https://www.mandiant.com/): [Proactive Preparation and Hardening to Protect Against Destructive Attacks](https://www.mandiant.com/resources/protect-against-destructive-attacks) (2022-01)
 * Lockheed-Martin: [Threat-Driven Approach to Cyber Security](https://www.lockheedmartin.com/content/dam/lockheed-martin/rms/documents/cyber/LM-White-Paper-Threat-Driven-Approach.pdf) + [Defendable Architectures ](https://www.lockheedmartin.com/content/dam/lockheed-martin/rms/documents/cyber/LM-White-Paper-Defendable-Architectures.pdf) (2019)
