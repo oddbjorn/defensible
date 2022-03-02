@@ -11,9 +11,10 @@
 	* AA22-011A: [Understanding and Mitigating Russian State-Sponsored Cyber Threats to U.S. Critical Infrastructure ](https://www.cisa.gov/uscert/ncas/alerts/aa22-011a) (2022-01)
 	* AA21-008A: [Detecting Post-Compromise Threat Activity in Microsoft Cloud Environments](https://www.cisa.gov/uscert/ncas/alerts/aa21-008a) 
 	* AA20-073A: [Enterprise VPN Security](https://www.cisa.gov/uscert/ncas/alerts/aa20-073a)
-	* [Shields Up](https://www.cisa.gov/shields-up)
+	* [Shields Up](https://www.cisa.gov/shields-up) + [additional advice](https://intel.ks.group/p/shields-up?utm_source=url) from The Krebs-Stamos Group
 * NIST: SP 800-160: [Engineering Trustworthy Secure Systems](https://csrc.nist.gov/publications/detail/sp/800-160/vol-1/final) (2022-01)
 * NSA:
+	* [Network Infrastructure Security Guidance](https://media.defense.gov/2022/Mar/01/2002947139/-1/-1/0/CTR_NSA_NETWORK_INFRASTRUCTURE_SECURITY_GUIDANCE_20220301.PDF) (2022-03)
 	* [Selecting and Hardening Remote Access VPN Solutions](https://media.defense.gov/2021/Sep/28/2002863184/-1/-1/0/CSI_SELECTING-HARDENING-REMOTE-ACCESS-VPNS-20210928.PDF) (2021-09)
 	* [Detecting Abuse of Authentication Mechanisms](https://media.defense.gov/2020/Dec/17/2002554125/-1/-1/0/AUTHENTICATION_MECHANISMS_CSA_U_OO_198854_20.PDF) (2020-12)
 * CISA:
@@ -28,3 +29,4 @@
 * FIRST: [Exploit Prediction Scoring System](https://www.first.org/epss/) (EPSS) (2022-02)
  - NIST: SP 800-40r4: [Guide to Enterprise Patch Management Planning: Preventive Maintenance for Technology](https://csrc.nist.gov/publications/detail/sp/800-40/rev-4/draft) (2021-11)
 
+*   Secure Active Director[https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/best-practices-for-securing-active-directory](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/best-practices-for-securing-active-directory))
