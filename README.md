@@ -1,5 +1,5 @@
 > You don't suddenly start "looking for attacks on your network". This isn't 1998, its 2022 and if you're not automating and scaling these kinds of detections then you've likely already lost. — Chris Rohlf
-# The Defendable Enterprise
+# The Defensible Enterprise
 * John Lambert: [Defender’s Mindset](https://medium.com/@johnlatwc/defenders-mindset-319854d10aaa) (2021-11-21)
 * MITRE: [ATT&CK](https://attack.mitre.org/) + [D3FEND](https://d3fend.mitre.org/) 
 * [Mandiant](https://www.mandiant.com/): [Proactive Preparation and Hardening to Protect Against Destructive Attacks](https://www.mandiant.com/resources/protect-against-destructive-attacks) (2022-01)
@@ -30,3 +30,7 @@
  - NIST: SP 800-40r4: [Guide to Enterprise Patch Management Planning: Preventive Maintenance for Technology](https://csrc.nist.gov/publications/detail/sp/800-40/rev-4/draft) (2021-11)
 
 *   Secure Active Director[https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/best-practices-for-securing-active-directory](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/best-practices-for-securing-active-directory))
+
+XXX
+> * CERT-EU: [Cybersecurity Mitigation Measures against Critical Threats]()(https://media.cert.europa.eu/static/WhitePapers/TLP-WHITE-CERT-EU_Security_Guidance-22-001_v1_0.pdf) (2022-03)
+> * The DFIR Report: [2021 Year in Review]()(https://thedfirreport.com/2022/03/07/2021-year-in-review/) (2022-03)
